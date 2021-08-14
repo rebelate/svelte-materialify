@@ -3,7 +3,10 @@
 @use '../../styles/generic/color';
 
 .s-app {
+  background-color: #ffffffd1;
   min-height: 100%;
+  position: relative;
+  z-index: 1;
 }
 
 .s-ripple-container {
